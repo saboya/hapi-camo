@@ -6,6 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "homepage": "https://github.com/saboya/hapi-camo",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:saboya/hapi-camo.git"
+  },
   "author": "Rodrigo Saboya",
   "license": "MIT",
   "optionalDependencies": {
