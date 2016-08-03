@@ -13,6 +13,9 @@
   },
   "author": "Rodrigo Saboya",
   "license": "MIT",
+  "dependencies": {
+    "camo": "^0.12.2"
+  },
   "optionalDependencies": {
     "mongodb": "2.0.42",
     "nedb": "1.8.0"
