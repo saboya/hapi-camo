@@ -1,6 +1,6 @@
 {
   "name": "hapi-camo",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Small plugin to integrate camo with hapi",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,6 @@
     "nedb": "1.8.0"
   },
   "peerDependencies": {
-    "hapi": "latest"
+    "hapi": "*"
   }
 }
